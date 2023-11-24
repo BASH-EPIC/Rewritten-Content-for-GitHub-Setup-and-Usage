@@ -46,8 +46,6 @@ Detailed Process:
 
    - If not already set up, configure Git with your GitHub credentials using `git config --global user.email "your_email@example.com"` and `git config --global user.name "your_github_username"`.
 
-<img width="499" alt="image" src="https://github.com/BASH-EPIC/Rewritten-Content-for-GitHub-Setup-and-Usage/assets/81670865/f91b014b-46c5-461a-9592-ceb6d2e0ca22">
-
 Additional Command Insights:
 
 - `git add .`: Prepares all current directory changes for the next commit.
