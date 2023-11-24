@@ -18,8 +18,6 @@ Detailed Process:
 
 3. Local Directory Setup:
 
-   <img width="343" alt="image" src="https://github.com/BASH-EPIC/Rewritten-Content-for-GitHub-Setup-and-Usage/assets/81670865/52b9ce02-4916-4f2f-a8ce-579978106c94">
-
    - Create a new folder on your computer to house your project files.
    - Access the Command Prompt or Terminal by typing "cmd" in the folder's address bar.
 
